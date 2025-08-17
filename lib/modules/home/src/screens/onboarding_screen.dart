@@ -245,7 +245,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
                   ),
                 ),
 
-                const SizedBox(height: 30),
+                const SizedBox(height: 10),
 
                 // Content section
                 Expanded(
@@ -266,7 +266,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
                           letterSpacing: 1,
                         ),
                       ),
-                      const SizedBox(height: 20),
+                      const SizedBox(height: 10),
 
                       Text(
                         _isEnglish
@@ -280,7 +280,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
                         ),
                       ),
 
-                      const SizedBox(height: 30),
+                      const SizedBox(height: 10),
 
                       // Premium features
                       Row(
