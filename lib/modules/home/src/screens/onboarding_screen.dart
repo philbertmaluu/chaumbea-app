@@ -220,7 +220,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
                                           child: Text(
                                             _isEnglish
                                                 ? 'PREMIUM GOSSIP'
-                                                : 'UVUMI WA KIFAHARI',
+                                                : 'UMBEA ULIOCHACHUKA',
                                             style: TextStyle(
                                               fontSize: 18,
                                               fontWeight: FontWeight.bold,
@@ -256,7 +256,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
                       Text(
                         _isEnglish
                             ? 'GET EXCLUSIVE GOSSIP\n& ENTERTAINMENT'
-                            : 'PATA UVUMI WA KIPEKEE\n& BURUDANI',
+                            : 'PATA UMBEA ULIOCHACHUKA\n& BURUDANI',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 26,
@@ -271,7 +271,7 @@ class _OnboardingScreenState extends State<OnboardingScreen>
                       Text(
                         _isEnglish
                             ? 'Subscribe to premium content with exclusive\nphotos, videos, and celebrity stories.'
-                            : 'Jiunga na maudhui ya kifahari yenye picha,\nvideo na hadithi za nje za waigizaji.',
+                            : 'Jiunga na maudhui ya kifahari yenye picha,\nvideo na hadithi za watu wa maana kabisa.',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 16,
